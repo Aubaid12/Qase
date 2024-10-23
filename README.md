@@ -1,2 +1,2 @@
-# Qase
+# Qase API project
  
